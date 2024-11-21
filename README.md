@@ -8,18 +8,24 @@ This project is beginner-friendly and serves as an excellent introduction to GUI
 **Functionalities**
 
 **Input Display:**
+
 An entry field where users can see the numbers and operators they input.
 It dynamically updates as users interact with the buttons.
 
 **Number Buttons:**
+
 Buttons for digits 0 through 9 to input numbers.
 
 **Operator Buttons:**
+
 Buttons for basic arithmetic operations:
 
 1.Addition (+)
+
 2.Subtraction (-)
+
 3.Multiplication (*)
+
 4.Division (/)
 
 **Evaluation:**
