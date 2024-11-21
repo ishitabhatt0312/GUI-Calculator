@@ -5,6 +5,7 @@
 This mini project is a basic calculator application built using Python's tkinter library, which is used to create graphical user interfaces (GUIs). The calculator provides a simple interface with buttons to perform basic arithmetic operations: addition, subtraction, multiplication, and division. It also includes functionality to clear the input field and evaluate mathematical expressions.
 This project is beginner-friendly and serves as an excellent introduction to GUI development in Python.
 
+
 **b. Functionalities**
 
 **1. Input Display:**
@@ -36,6 +37,7 @@ Clear Functionality:
 
 A button (C) to clear the input field entirely.
 
+
 **c. How It Works**
 
 **1. Interface:**
@@ -60,6 +62,7 @@ If the user enters an invalid expression or division by zero occurs, the calcula
 **5. Clearing Input**:
 
 The C button clears all content from the input field, allowing users to start a new calculation.
+
 
 **d. Project Workflow**
 
@@ -88,6 +91,7 @@ The C button clears the input.
 
 The mainloop() function starts the GUI's event loop, which keeps the application responsive to user input.
 
+
 **e. Potential Use Cases**
 
 **1. Learning Tool**:
@@ -101,6 +105,7 @@ A lightweight application for performing basic calculations.
 **3. Framework Familiarization**
 
 : Helps understand event-driven programming and the tkinter library.
+
 
 **f. Enhancements for the Future**
 
