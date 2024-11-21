@@ -16,11 +16,13 @@ Buttons for digits 0 through 9 to input numbers.
 
 **Operator Buttons:**
 Buttons for basic arithmetic operations:
-Addition (+)
-Subtraction (-)
-Multiplication (*)
-Division (/)
-Evaluation:
+
+1.Addition (+)
+2.Subtraction (-)
+3.Multiplication (*)
+4.Division (/)
+
+**Evaluation:**
 
 A button (=) to compute and display the result of the mathematical expression entered in the input field.
 Clear Functionality:
