@@ -1,6 +1,6 @@
-**<u>Simple Calculator Using Tkinter</u>**
+# **Simple Calculator Using Tkinter</u>**
 
-**a. Description**
+## **a. Description**
 
 This mini project is a basic calculator application built using Python's tkinter library, which is used to create graphical user interfaces (GUIs). The calculator provides a simple interface with buttons to perform basic arithmetic operations: addition, subtraction, multiplication, and division. It also includes functionality to clear the input field and evaluate mathematical expressions.
 This project is beginner-friendly and serves as an excellent introduction to GUI development in Python.
