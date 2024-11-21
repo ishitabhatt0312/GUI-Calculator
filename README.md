@@ -64,7 +64,7 @@ If the user enters an invalid expression or division by zero occurs, the calcula
 The C button clears all content from the input field, allowing users to start a new calculation.
 
 
-###**d. Project Workflow**
+## **d. Project Workflow**
 
 ### **1. Initialize GUI:**
 
