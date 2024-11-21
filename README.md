@@ -122,3 +122,9 @@ Make the application responsive for different screen sizes.
 **3. Error Handling:**
 
 Implement custom parsing of expressions for better validation and security (avoid relying solely on eval()).
+
+
+
+![Alt text][image](https://github.com/user-attachments/assets/02062eee-0ce0-4484-b5f1-c8ffad3fa607)
+
+
